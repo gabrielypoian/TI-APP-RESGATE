@@ -2,7 +2,7 @@
 **Aplicativo web** de auxilio no atendimento de ocorrências ***cardiorrespiratórias***.
 
 ## Desenvolvedor(a)
-** Gabriely Poian**
+**Gabriely Poian**
 
 ## Tecnologias utilizadas
 - HTML
